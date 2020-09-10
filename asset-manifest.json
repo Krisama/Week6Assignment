@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Week6Assignment/static/css/main.0a0650df.chunk.css",
+    "main.js": "/Week6Assignment/static/js/main.9cca4e9f.chunk.js",
+    "main.js.map": "/Week6Assignment/static/js/main.9cca4e9f.chunk.js.map",
+    "runtime-main.js": "/Week6Assignment/static/js/runtime-main.14634aae.js",
+    "runtime-main.js.map": "/Week6Assignment/static/js/runtime-main.14634aae.js.map",
+    "static/js/2.a7f2996d.chunk.js": "/Week6Assignment/static/js/2.a7f2996d.chunk.js",
+    "static/js/2.a7f2996d.chunk.js.map": "/Week6Assignment/static/js/2.a7f2996d.chunk.js.map",
+    "index.html": "/Week6Assignment/index.html",
+    "precache-manifest.36a2a7e312ba73e8a058ee002c1895e7.js": "/Week6Assignment/precache-manifest.36a2a7e312ba73e8a058ee002c1895e7.js",
+    "service-worker.js": "/Week6Assignment/service-worker.js",
+    "static/css/main.0a0650df.chunk.css.map": "/Week6Assignment/static/css/main.0a0650df.chunk.css.map",
+    "static/js/2.a7f2996d.chunk.js.LICENSE.txt": "/Week6Assignment/static/js/2.a7f2996d.chunk.js.LICENSE.txt",
+    "static/media/logo.PNG": "/Week6Assignment/static/media/logo.01324fe7.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14634aae.js",
+    "static/js/2.a7f2996d.chunk.js",
+    "static/css/main.0a0650df.chunk.css",
+    "static/js/main.9cca4e9f.chunk.js"
+  ]
+}
